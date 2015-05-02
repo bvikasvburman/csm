@@ -1,0 +1,15 @@
+/*
+
+	Indianlancer
+        Minor instructions for setting up project in your server environment
+
+*/
+
+
+Here are the minor instructions that you need to follow to setup.
+
+1. In all tables you need to append to columns 
+a) created_at
+b) updated_at
+
+2. In syncdevice you need to add new column named "remember_token"
